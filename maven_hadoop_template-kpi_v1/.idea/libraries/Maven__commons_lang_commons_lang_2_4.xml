@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: commons-lang:commons-lang:2.4">
+    <CLASSES>
+      <root url="jar://H:/软件/01版本控制/maven/.m2/repository/commons-lang/commons-lang/2.4/commons-lang-2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://H:/软件/01版本控制/maven/.m2/repository/commons-lang/commons-lang/2.4/commons-lang-2.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://H:/软件/01版本控制/maven/.m2/repository/commons-lang/commons-lang/2.4/commons-lang-2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

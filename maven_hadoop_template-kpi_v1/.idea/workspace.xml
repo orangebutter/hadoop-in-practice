@@ -1,0 +1,1327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60fba1de-7fc6-4ebf-984f-4043c363a13f" name="Default" comment="" />
+    <ignored path="myHadoop.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/ip/IPSeeker.java" line="631" class="org.conan.myhadoop.mr.ip.IPSeeker" package="org.conan.myhadoop.mr.ip">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="myHadoop" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ByteSum.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/sum/ByteSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="46" selection-start="971" selection-end="971" vertical-scroll-proportion="0.0" vertical-offset="513" max-vertical-offset="1596">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DomainIP.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/sum/DomainIP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="53" column="37" selection-start="1857" selection-end="1857" vertical-scroll-proportion="0.0" vertical-offset="1007" max-vertical-offset="1634">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KPIRegion.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/sum/KPIRegion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="115" column="0" selection-start="4577" selection-end="4577" vertical-scroll-proportion="0.48181817" vertical-offset="1920" max-vertical-offset="2546">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IPSeeker.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/ip/IPSeeker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="92" column="27" selection-start="2410" selection-end="2410" vertical-scroll-proportion="0.0" vertical-offset="1542" max-vertical-offset="10336">
+              <folding>
+                <element signature="method#getIPEntriesDebug#0;class#IPSeeker#0" expanded="false" />
+                <element signature="method#getIPEntries#0;class#IPSeeker#0" expanded="false" />
+                <element signature="method#getCountry#0;class#IPSeeker#0" expanded="false" />
+                <element signature="method#getArea#0;class#IPSeeker#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RandomAccessFile.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.7.0_55/src.zip!/java/io/RandomAccessFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="200" column="11" selection-start="9332" selection-end="9332" vertical-scroll-proportion="0.0" vertical-offset="2570" max-vertical-offset="19817">
+              <folding>
+                <element signature="docComment;method#RandomAccessFile#1;class#RandomAccessFile#0" expanded="false" />
+                <element signature="method#RandomAccessFile#1;class#RandomAccessFile#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DistributedCache.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://H:/软件/01版本控制/maven/.m2/repository/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/filecache/DistributedCache.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="45" selection-start="2447" selection-end="2474" vertical-scroll-proportion="0.0" vertical-offset="760" max-vertical-offset="1805">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mapper.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://H:/软件/01版本控制/maven/.m2/repository/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/mapred/Mapper.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="82" selection-start="229" selection-end="244" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="266">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JobConfigurable.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://H:/软件/01版本控制/maven/.m2/repository/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/mapred/JobConfigurable.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="1" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0" vertical-offset="152" max-vertical-offset="266">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MapReduceBase.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://H:/软件/01版本控制/maven/.m2/repository/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/mapred/MapReduceBase.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="1" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="342">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IPSeekerException.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/ip/IPSeekerException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="0" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0" vertical-offset="190" max-vertical-offset="304">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/hadoop/core-site.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/hadoop/mapred-site.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/hadoop/hdfs-site.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/WordCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/ip/IPEntry.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/ip/Utils.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/kpi/KPITime.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/kpi/KPIBrowser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/util/TestUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/kpi/KPIIPPV.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/kpi/KPIPV.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/kpi/KPI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/kpi/KPIIP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/sum/ByteSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/sum/DomainIP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/ip/IPSeekerException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/ip/IPSeekerFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/ip/IPSeeker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/sum/KPIRegion.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="H:\软件\01版本控制\maven\.m2\repository" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myHadoop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myHadoop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="maven_hadoop_template-kpi_v1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myHadoop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="maven_hadoop_template-kpi_v1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myHadoop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="maven_hadoop_template-kpi_v1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myHadoop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="maven_hadoop_template-kpi_v1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myHadoop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="maven_hadoop_template-kpi_v1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myHadoop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="maven_hadoop_template-kpi_v1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ip" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="preferences.keymap" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="SearchEverywhereHistory" value="by" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\学习\dataguru\hadoop实战\作业\2\maven_hadoop_template-kpi_v1\src\main\resources" />
+      <recent name="H:\学习\dataguru\hadoop实战\作业\2\maven_hadoop_template-kpi_v1\src\main\resources\hadoop" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.conan.myhadoop.mr.ip" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.IPSeeker">
+    <configuration default="false" name="WordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.conan.myhadoop.mr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.conan.myhadoop.mr.WordCount" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="myHadoop" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="IPSeeker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.conan.myhadoop.mr.ip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.conan.myhadoop.mr.ip.IPSeeker" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="myHadoop" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.conan.myhadoop.mr.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.conan.myhadoop.mr.util.TestUtil" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="myHadoop" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="KPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.conan.myhadoop.mr.kpi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.conan.myhadoop.mr.kpi.KPI" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="myHadoop" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails" singleton="true">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" output_log_level="null" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Application.WordCount" />
+      <item index="1" class="java.lang.String" itemvalue="Application.IPSeeker" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TestUtil" />
+      <item index="3" class="java.lang.String" itemvalue="Application.KPI" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.IPSeeker" />
+        <item index="1" class="java.lang.String" itemvalue="Application.KPI" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestUtil" />
+        <item index="3" class="java.lang.String" itemvalue="Application.WordCount" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60fba1de-7fc6-4ebf-984f-4043c363a13f" name="Default" comment="" />
+      <created>1399955232861</created>
+      <updated>1399955232861</updated>
+      <workItem from="1399955242626" duration="3299000" />
+      <workItem from="1399961312661" duration="3807000" />
+      <workItem from="1399966085708" duration="4907000" />
+      <workItem from="1399992599492" duration="7313000" />
+      <workItem from="1400062367353" duration="4560000" />
+      <workItem from="1400118929328" duration="522000" />
+      <workItem from="1400121998852" duration="3214000" />
+      <workItem from="1400125495595" duration="2108000" />
+      <workItem from="1400131178519" duration="8910000" />
+      <workItem from="1400215878416" duration="11477000" />
+      <workItem from="1400235095168" duration="1160000" />
+      <workItem from="1400325696102" duration="9940000" />
+      <workItem from="1400463974784" duration="5695000" />
+      <workItem from="1400472389643" duration="3027000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="69939000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39905363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291536" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34313726" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/util/TestUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="5" selection-start="692" selection-end="692" vertical-scroll-proportion="0.0" vertical-offset="380" max-vertical-offset="532">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/kpi/KPITime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="1" selection-start="2596" selection-end="2596" vertical-scroll-proportion="0.0" vertical-offset="1368" max-vertical-offset="1501">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/ip/IPSeeker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="264" column="16" selection-start="7831" selection-end="7831" vertical-scroll-proportion="0.0" vertical-offset="5016" max-vertical-offset="12122">
+          <folding>
+            <element signature="method#getIPEntriesDebug#0;class#IPSeeker#0" expanded="false" />
+            <element signature="method#getIPEntries#0;class#IPSeeker#0" expanded="false" />
+            <element signature="method#getCountry#0;class#IPSeeker#0" expanded="false" />
+            <element signature="method#getArea#0;class#IPSeeker#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/ip/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="32" selection-start="1231" selection-end="1231" vertical-scroll-proportion="0.0" vertical-offset="912" max-vertical-offset="1463">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/ip/IPEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="1" selection-start="469" selection-end="469" vertical-scroll-proportion="0.0" vertical-offset="494" max-vertical-offset="608">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/WordCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="46" selection-start="1642" selection-end="1642" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1539">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="22" selection-start="577" selection-end="577" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/kpi/KPIIP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="18" selection-start="1323" selection-end="1329" vertical-scroll-proportion="0.0" vertical-offset="426" max-vertical-offset="1501">
+          <folding>
+            <element signature="e#1039#1047#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/kpi/KPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="126" column="57" selection-start="3687" selection-end="3687" vertical-scroll-proportion="0.0" vertical-offset="2394" max-vertical-offset="4845">
+          <folding>
+            <element signature="e#6038#6039#0" expanded="false" />
+            <element signature="e#6076#6077#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/kpi/KPIBrowser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="841" selection-end="841" vertical-scroll-proportion="0.0" vertical-offset="475" max-vertical-offset="1406">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hadoop/mapred-site.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="33" selection-start="363" selection-end="381" vertical-scroll-proportion="0.0" vertical-offset="186" max-vertical-offset="494" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hadoop/core-site.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="40" selection-start="275" selection-end="280" vertical-scroll-proportion="0.0" vertical-offset="247" max-vertical-offset="494" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hadoop/hdfs-site.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/kpi/KPIPV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="0" selection-start="1580" selection-end="1580" vertical-scroll-proportion="0.0" vertical-offset="817" max-vertical-offset="1463">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/kpi/KPITime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="45" selection-start="1903" selection-end="1903" vertical-scroll-proportion="0.0" vertical-offset="969" max-vertical-offset="1368">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/WordCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="58" selection-start="2475" selection-end="2475" vertical-scroll-proportion="0.0" vertical-offset="1031" max-vertical-offset="1729">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="182" max-vertical-offset="570">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/kpi/KPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="126" column="57" selection-start="3687" selection-end="3687" vertical-scroll-proportion="0.0" vertical-offset="2394" max-vertical-offset="4845">
+          <folding>
+            <element signature="e#6038#6039#0" expanded="false" />
+            <element signature="e#6076#6077#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/kpi/KPIBrowser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="34" selection-start="990" selection-end="993" vertical-scroll-proportion="0.0" vertical-offset="513" max-vertical-offset="1596">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hadoop/mapred-site.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="33" selection-start="363" selection-end="381" vertical-scroll-proportion="0.0" vertical-offset="186" max-vertical-offset="494" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hadoop/core-site.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="40" selection-start="275" selection-end="280" vertical-scroll-proportion="0.0" vertical-offset="247" max-vertical-offset="494" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hadoop/hdfs-site.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/kpi/KPIPV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="35" selection-start="1107" selection-end="1116" vertical-scroll-proportion="0.0" vertical-offset="532" max-vertical-offset="1653">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://H:/软件/01版本控制/maven/.m2/repository/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/fs/FileUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="0" selection-start="6155" selection-end="6155" vertical-scroll-proportion="0.0" vertical-offset="1691" max-vertical-offset="1805" />
+      </provider>
+    </entry>
+    <entry file="jar://H:/软件/01版本控制/maven/.m2/repository/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/conf/Configuration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="172" column="0" selection-start="8290" selection-end="8290" vertical-scroll-proportion="0.0" vertical-offset="3268" max-vertical-offset="3382" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="35" selection-start="1065" selection-end="1065" vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="798">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/WordCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="49" selection-start="1570" selection-end="1575" vertical-scroll-proportion="0.0" vertical-offset="551" max-vertical-offset="1425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hadoop/mapred-site.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="15" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="494" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hadoop/hdfs-site.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="20" selection-start="421" selection-end="421" vertical-scroll-proportion="0.6451613" vertical-offset="0" max-vertical-offset="589" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hadoop/core-site.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="32" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="494" />
+      </provider>
+    </entry>
+    <entry file="jar://H:/软件/01版本控制/maven/.m2/repository/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/mapred/OutputCollector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="9" selection-start="206" selection-end="206" vertical-scroll-proportion="0.0" vertical-offset="133" max-vertical-offset="266" />
+      </provider>
+    </entry>
+    <entry file="jar://H:/软件/01版本控制/maven/.m2/repository/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/mapred/Reducer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="17" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="266" />
+      </provider>
+    </entry>
+    <entry file="jar://H:/软件/01版本控制/maven/.m2/repository/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/mapred/JobConf.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="197" column="27" selection-start="9690" selection-end="9698" vertical-scroll-proportion="0.0" vertical-offset="3743" max-vertical-offset="6422" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/util/TestUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="5" selection-start="692" selection-end="692" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="532">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/kpi/KPIPV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="6" selection-start="2159" selection-end="2159" vertical-scroll-proportion="0.87598944" vertical-offset="656" max-vertical-offset="1349">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/sum/ByteSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="46" selection-start="971" selection-end="971" vertical-scroll-proportion="0.0" vertical-offset="1050" max-vertical-offset="1596">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/kpi/KPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="207" column="33" selection-start="5736" selection-end="5736" vertical-scroll-proportion="0.0" vertical-offset="3070" max-vertical-offset="4351">
+          <folding>
+            <element signature="e#6038#6039#0" expanded="false" />
+            <element signature="e#6076#6077#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/kpi/KPITime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="34" selection-start="846" selection-end="853" vertical-scroll-proportion="0.0" vertical-offset="590" max-vertical-offset="1368">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/sum/DomainIP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="37" selection-start="1857" selection-end="1857" vertical-scroll-proportion="0.0" vertical-offset="1044" max-vertical-offset="1634">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/kpi/KPIIP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="42" selection-start="752" selection-end="766" vertical-scroll-proportion="0.0" vertical-offset="115" max-vertical-offset="1387">
+          <folding>
+            <element signature="e#1039#1047#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/ip/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0" vertical-offset="7" max-vertical-offset="1444">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/kpi/KPIBrowser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="22" selection-start="777" selection-end="783" vertical-scroll-proportion="0.0" vertical-offset="25" max-vertical-offset="1292">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/ip/IPSeekerException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="304">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/ip/IPEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="244" selection-end="244" vertical-scroll-proportion="0.38709676" vertical-offset="19" max-vertical-offset="608">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://H:/软件/01版本控制/maven/.m2/repository/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/mapred/JobConfigurable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="1" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0" vertical-offset="152" max-vertical-offset="266">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://H:/软件/01版本控制/maven/.m2/repository/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/mapred/Mapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="82" selection-start="229" selection-end="244" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="266">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://H:/软件/01版本控制/maven/.m2/repository/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/filecache/DistributedCache.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="45" selection-start="2447" selection-end="2474" vertical-scroll-proportion="0.0" vertical-offset="760" max-vertical-offset="1805">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://H:/软件/01版本控制/maven/.m2/repository/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/mapred/MapReduceBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="1" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="342">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_55/src.zip!/java/io/RandomAccessFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="200" column="11" selection-start="9332" selection-end="9332" vertical-scroll-proportion="0.0" vertical-offset="2570" max-vertical-offset="19817">
+          <folding>
+            <element signature="docComment;method#RandomAccessFile#1;class#RandomAccessFile#0" expanded="false" />
+            <element signature="method#RandomAccessFile#1;class#RandomAccessFile#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/ip/IPSeeker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="27" selection-start="2410" selection-end="2410" vertical-scroll-proportion="0.0" vertical-offset="1542" max-vertical-offset="10336">
+          <folding>
+            <element signature="method#getIPEntriesDebug#0;class#IPSeeker#0" expanded="false" />
+            <element signature="method#getIPEntries#0;class#IPSeeker#0" expanded="false" />
+            <element signature="method#getCountry#0;class#IPSeeker#0" expanded="false" />
+            <element signature="method#getArea#0;class#IPSeeker#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/conan/myhadoop/mr/sum/KPIRegion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="0" selection-start="4577" selection-end="4577" vertical-scroll-proportion="0.48181817" vertical-offset="1920" max-vertical-offset="2546">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>myHadoop</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ant:ant:1.6.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

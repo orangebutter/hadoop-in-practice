@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<!-- Put site-specific property overrides in this file. -->
+<!--
+<configuration>
+
+</configuration>
+-->
+
+<configuration>
+	<property>
+		<name>mapred.system.dir</name>
+		<value>/hadoop/mapred</value>
+	</property>
+    <property>
+        <name>mapred.job.tracker</name>
+        <value>192.168.1.40:10001</value>
+    </property>
+</configuration>
