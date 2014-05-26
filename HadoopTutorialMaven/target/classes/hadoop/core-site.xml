@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<!-- Put site-specific property overrides in this file. -->
+<!--
+<configuration>
+
+</configuration>
+-->
+
+<configuration>
+	<property>
+		<name>fs.default.name</name>
+		<value>hdfs://192.168.1.40:54310</value>
+	</property>
+	<property>
+		<name>cn.dataguru.hadoop.tmp.dir</name>
+		<value>/hadoop/tmp/</value>
+	</property>
+</configuration>
